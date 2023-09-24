@@ -1,0 +1,52 @@
+#parent{
+    background-color: lightblue;
+    margin: 10px;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+#child{
+    background-color: green;
+    margin: 5px;
+    padding: 2px;
+    border: 2px dotted black;
+}
+
+.header{
+    background-color: lightgreen;
+    color: blue;
+}
+.navigation{
+    background-color: red;
+    color: white;
+}
+.index{
+    background-color: purple;
+    color: orange;
+}
+.content{
+    background-color: lightpink;
+    color: black;
+}
+.footer{
+    background-color: chartreuse;
+    color: darkred;
+}
+.table1{
+    background-color: crimson;
+}
+.table2{
+    background-color: green;
+    color: white;
+}
+.table3{
+    background-color: black;
+}
+
+.form1{
+    background-color: aqua;
+    color: red;
+}
+.form2{
+    color: red;
+}
